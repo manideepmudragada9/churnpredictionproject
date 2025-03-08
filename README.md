@@ -1,7 +1,7 @@
 # churnpredictionproject
 
 
-  churn prediction project comprises of predicting churn from a realtine dataset of 25,000rows*111 columns.
+  churn prediction project comprises of predicting churn from a realtime churn dataset of 25,000rows*111 columns.
 
   Dataset: 25,000*111 columns
   
@@ -52,7 +52,7 @@
         8.  Hyperparametertuning :-  To increase accuracry we will try hyperparametertuning on the modified dataset.
 
                                  1. we define hyperparameters like :- 
-                                                                      1. n_estimatores
+                                                                      1. n_estimators
                                                                       2. max_depth
                                                                       3. min_samples_split
                                                                       4. min_samples_leaf
@@ -67,5 +67,22 @@
 
 
 
+KEYWORDS TO REMEMBER AND LEARN IN MACHINE LEARNING:-
+                                
                                  
+                                 
+                                 
+                                 1. precisiom
+                                 2. Recall
+                                 3. F1-score
+                                 4. Confusion matrix
+                                 5. hyperparameters              
+                                 6. overfitting
+                                 7. underfitting
+                                 8. gridsearch
+                                 9. axis=0 or 1
+                                 10. inplace =True  or False
+                                 11. outliers
+                                 12. zero variance etc..
+                             
                                       

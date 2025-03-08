@@ -67,22 +67,5 @@
 
 
 
-KEYWORDS TO REMEMBER AND LEARN IN MACHINE LEARNING:-
-                                
-                                 
-                                 
-                                 
-                                 1. precisiom
-                                 2. Recall
-                                 3. F1-score
-                                 4. Confusion matrix
-                                 5. hyperparameters              
-                                 6. overfitting
-                                 7. underfitting
-                                 8. gridsearch
-                                 9. axis=0 or 1
-                                 10. inplace =True  or False
-                                 11. outliers
-                                 12. zero variance etc..
-                             
-                                      
+In this project, 
+                  The best suited model is Random forest because of its effectiveness in  handle noise and missing values. Additionally, they are versatile and scalable, suitable for both classification and regression tasks. After evaluating all three models, we selected Random Forest due to its superior performance and minimal gap between training and testing accuracy
